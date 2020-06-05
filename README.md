@@ -27,9 +27,7 @@ Use [binder](https://mybinder.org/v2/gh/willb/python-data-notebooks/develop).  (
     - tip:  if you don't have `git` installed, you can also [download an archive of this repository](https://github.com/willb/python-data-notebooks/archive/master.zip)
 2.  Change to this repository's directory:  `cd python-data-notebooks`
 3.  Install the dependencies:  `pipenv install`
-4.  Activate shell: `pipenv shell`
-5.  Install Jupyter: `pipenv install jupyter`
-6.  Run the notebooks:  `pipenv run jupyter notebook`
+4.  Run the notebooks:  `pipenv run jupyter notebook`
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willb/python-data-notebooks/develop)
 
